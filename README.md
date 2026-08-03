@@ -1,37 +1,51 @@
-This repository contains my solutions to LOOPING AND PATTERNS problems in the C programming language.
+ C - Conditional Thinking
+
+This repository contains my solutions to CONDITIONAL THINKING problems in the C programming language.
 
 The purpose of this repository is to strengthen my logical thinking and improve my understanding of decision-making using conditional statements.
 
-Topics Covered:
+**Topics Covered**:
 
-For loop
-While loop
-Do while loop
-Switch
+- Simple if statements
+- if-else
+- Nested if-else
+- Multiple conditions
+- Logical operators (&&, ||, !)
+- Relational operators
+- Mathematical logic using conditions
+- Input validation
 
-Sample Problems:
+**Sample Problems**:
 
-Armstrong number
-Asterisks pattern
-Prime or not
-Factorial
-Fibonacci
-Perfect Number
-And many more..
-Repository Structure:
+- Check whether a number is even or odd
+- Find the greatest among three numbers
+- Check leap year
+- Century from a given year
+- Sum of digits vs product of digits
+- Arithmetic Progression (A.P.)
+- Geometric Progression (G.P.)
+- Compare two dates
+- Clock angle problem
+- And many more..
 
-Each program is saved as a separate .c file with meaningful names for easy navigation.
+**Repository Structure**:
 
-Skills Practiced:
+Each program is saved as a separate `.c` file with meaningful names for easy navigation.
 
-Problem Solving
-Looping
-Algorithmic Thinking
-C Programming Fundamentals
-Technologies Used:
+**Skills Practiced**:
 
-Language: C
-Compiler: GCC
-IDE: Visual Studio Code
-Goal
+- Problem Solving
+- Conditional Logic
+- Algorithmic Thinking
+- C Programming Fundamentals
+
+**Technologies Used**:
+
+- Language: C
+- Compiler: GCC
+- IDE: Visual Studio Code
+
+## Goal
+
 This repository is a part of my journey to build strong programming fundamentals.
+---
