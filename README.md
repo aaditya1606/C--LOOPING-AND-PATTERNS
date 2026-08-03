@@ -1,45 +1,50 @@
- C - Conditional Thinking
+# C - Looping and Patterns
 
-This repository contains my solutions to CONDITIONAL THINKING problems in the C programming language.
+This repository contains my solutions to **Looping and Pattern** problems in the C programming language.
 
-The purpose of this repository is to strengthen my logical thinking and improve my understanding of decision-making using conditional statements.
+The purpose of this repository is to strengthen my understanding of loops, improve logical thinking, and develop problem-solving skills by solving various looping and pattern-based problems.
 
-**Topics Covered**:
+## Topics Covered
 
-- Simple if statements
-- if-else
-- Nested if-else
-- Multiple conditions
-- Logical operators (&&, ||, !)
-- Relational operators
-- Mathematical logic using conditions
-- Input validation
+- while loop
+- for loop
+- do-while loop
+- Nested loops
+- Pattern printing
+- Number patterns
+- Star patterns
+- Alphabet patterns
+- Series generation
+- Mathematical problems using loops
 
-**Sample Problems**:
+## Sample Problems
 
-- Check whether a number is even or odd
-- Find the greatest among three numbers
-- Check leap year
-- Century from a given year
-- Sum of digits vs product of digits
-- Arithmetic Progression (A.P.)
-- Geometric Progression (G.P.)
-- Compare two dates
-- Clock angle problem
-- And many more..
+- Print Fibonacci series
+- Reverse a number
+- Check palindrome number
+- Check Armstrong number
+- Check Strong number
+- Check Prime number
+- Count digits
+- Sum of digits
+- Print multiplication tables
+- Number, Star, and Character patterns
+- And many more...
 
-**Repository Structure**:
+## Repository Structure
 
 Each program is saved as a separate `.c` file with meaningful names for easy navigation.
 
-**Skills Practiced**:
+## Skills Practiced
 
 - Problem Solving
-- Conditional Logic
+- Logical Thinking
+- Looping Concepts
+- Pattern Recognition
 - Algorithmic Thinking
 - C Programming Fundamentals
 
-**Technologies Used**:
+## Technologies Used
 
 - Language: C
 - Compiler: GCC
@@ -47,5 +52,4 @@ Each program is saved as a separate `.c` file with meaningful names for easy nav
 
 ## Goal
 
-This repository is a part of my journey to build strong programming fundamentals.
----
+This repository is a part of my journey to build strong programming fundamentals by mastering loops and pattern-based programming in C.
